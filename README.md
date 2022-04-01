@@ -1,2 +1,2 @@
 # CURRENCY_parser
-Парсер курса валюты с Сайта http://www.cbr.ru/. 
+Парсер курса валюты с сайта http://www.cbr.ru/. 
